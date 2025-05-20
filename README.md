@@ -37,3 +37,27 @@ A Loja 4 foi a que teve o menor desempenho em diversos aspectos, sendo recomenda
 
 Com base na análise de dados e nas visualizações geradas, foi possível recomendar com segurança a venda da Loja 4, preservando as demais lojas que apresentam maior potencial de retorno e engajamento do cliente.
 
+
+📊 Exemplos de Gráficos e Insights Obtidos
+
+    🔹 Faturamento Total por Loja
+    
+       Loja 1 lidera com R$ 1.616.347,09 de faturamento.
+    
+       A Loja 4 teve o menor desempenho financeiro.
+    
+    🔹 Vendas por Categoria (Loja 1)
+    
+       A categoria móveis é consistentemente a mais vendida.
+    
+       Categorias como livros e utilidades domésticas apresentam menor volume de vendas.
+    
+    🔹 Frete Médio por Loja
+    
+       A Loja 4 possui o menor frete médio (R$ 31,28), o que pode representar menor custo logístico, mas também menor valor agregado aos produtos.
+
+📈 Insights Relevantes
+
+A Loja 1 se destaca em praticamente todos os indicadores: maior faturamento, melhor média de avaliação (3.98) e alta rotatividade de produtos.
+
+A Loja 4, embora apresente o menor frete médio, teve o menor desempenho de faturamento, menor diversidade de produtos mais vendidos e avaliações medianas.
