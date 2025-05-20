@@ -61,3 +61,40 @@ Com base na análise de dados e nas visualizações geradas, foi possível recom
 A Loja 1 se destaca em praticamente todos os indicadores: maior faturamento, melhor média de avaliação (3.98) e alta rotatividade de produtos.
 
 A Loja 4, embora apresente o menor frete médio, teve o menor desempenho de faturamento, menor diversidade de produtos mais vendidos e avaliações medianas.
+
+
+🗂️ Estrutura do Projeto
+O projeto está organizado da seguinte forma:
+
+
+    📦 base-de-dados-challenge-1
+    
+    │
+    
+    ├── loja_1.csv
+    
+    ├── loja_2.csv
+    
+    ├── loja_3.csv
+    
+    └── loja_4.csv
+    
+    📄 AluraStoreBrRodrigo.ipynb  # Notebook principal com toda análise e visualizações
+    
+    📄 README.md                  # Documentação do projeto
+
+A pasta base-de-dados-challenge-1 contém os arquivos CSV com os dados das quatro lojas.
+
+O arquivo AluraStoreBrRodrigo.ipynb é o notebook principal onde toda a análise é feita.
+
+O README.md documenta o projeto, objetivos, resultados e instruções.
+
+▶️ Como Executar o Projeto no Google Colab
+
+Abra o Google Colab em https://colab.research.google.com/.
+
+Faça upload do arquivo AluraStoreBrRodrigo.ipynb para o ambiente do Colab.
+
+Como os dados estão hospedados no GitHub, o notebook já carrega diretamente os CSVs pelas URLs, não sendo necessário fazer upload dos arquivos manualmente.
+
+Execute as células do notebook em ordem para reproduzir toda a análise, visualizações e relatório.
